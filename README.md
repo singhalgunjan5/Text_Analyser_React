@@ -48,7 +48,6 @@ If you want to run the Text Analyser application locally or contribute to its de
     npm run dev
     ```
 
-
 ## Author
 This Text Analyser application is developed and maintained by [Gunjan Singhal](https://github.com/singhalgunjan5).
 
